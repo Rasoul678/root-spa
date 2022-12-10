@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@RaHeRo/root-config": "https://rasoul678.github.io/root-spa/RaHeRo-root-config.js",
+    "@RaHeRo/react-spa-navbar": "https://rasoul678.github.io/react-spa-navbar/RaHeRo-react-spa-navbar.js",
+    "@RaHeRo/react-spa-main": "https://rasoul678.github.io/react-spa-main/RaHeRo-react-spa-main.js",
+    "@RaHeRo/react-spa-footer": "https://rasoul678.github.io/react-spa-footer/RaHeRo-react-spa-footer.js"
+  }
+}
